@@ -1,0 +1,6 @@
+npc/guard/head
+block/tower
+# these line will be ignored
+# so you can insert something later
+npc/magma_cube
+item/tier1/bow

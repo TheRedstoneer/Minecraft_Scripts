@@ -1,0 +1,33 @@
+{
+    "__comment": "Model made by TheRedstoneer",
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_hoe"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "npc/guard/head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "block/tower"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "npc/magma_cube"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "item/tier1/bow"
+        }
+    ]
+}
